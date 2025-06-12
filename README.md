@@ -1,4 +1,23 @@
 # Okungujim.github.io
+<h1><b>ANYITI JIM OKUNGU</b></h1>
+<p>Data scientist officer</p>
+<h2>C o n t a c t s</h2> </h2>(254) 0741799066<h2></h2>
+                           Jimokungu6@gmail.com
+                           KAKAMEGA, KENYA
+Education           2024 – BSC Computer Security and Forensics,
+                            Second class honours upper division
+                            JARAMOGI OGINGA ODINGA UNIVERSITY
+                            – BONDO, SIAYA
+K e y S k i l l s     Microsoft Office 
+                       Web and tech enthusiast
+                      Problem solving
+                       Team leadership
+A w a r d s
+                  Exploring Emerging technologies
+                   by IBM skills
+
+
+
 <h1><b>🎬 IMDb Movie Ratings Analysis</b></h1>
 <h2>📌 Project Overview</h2>
 
