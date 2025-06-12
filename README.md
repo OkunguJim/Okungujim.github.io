@@ -6,7 +6,7 @@
 <h1>📁 Dataset</h1>
 <p>We use the IMDb Top 1000 Movies dataset from Kaggle, which includes:
 <ul>
-<li></li>Movie titles, release year</li>
+<li>Movie titles, release year</li>
 <li>IMDb ratings, number of votes</li>
 <li>Genre, duration, and more</li>
  </ul>
@@ -17,3 +17,24 @@
 <li> Visualize trends in ratings over time</li>
 <li>Analyze the relationship between number of votes and ratings</li>
 </ol>
+<h1><b>🧹 Step 1: Data Cleaning</b></h1>
+<p>
+ import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+df = pd.read_csv("imdb_top_1000.csv")
+
+# Clean Runtime
+df['Runtime'] = df['Runtime'].str.extract('(\d+)').astype(float)
+
+# Convert Year
+df['Year'] = df['Year'].astype(int)
+
+# Handle genres (use primary genre)
+df['Primary_Genre'] = df['Genre'].str.split(',').str[0]
+
+# Drop rows with critical missing values
+df = df.dropna(subset=['IMDB_Rating', 'No_of_Votes'])
+
+</p>
