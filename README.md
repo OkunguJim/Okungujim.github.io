@@ -4,7 +4,7 @@
 <p><h2>C o n t a c t s</h2></p> 
 <p>
   <ul>
-<li>(+254)0741799066</li>
+<li>(+254)741799066</li>
 <li>Jimokungu6@gmail.com</li>
 <li>KAKAMEGA, KENYA</li>
 </ul>
