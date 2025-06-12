@@ -28,6 +28,7 @@
 <li>Exploring Emerging technologies</li>
 <li>by IBM skills</li>
 </ol>
+<div>
 <h1><p><b>PROJECTS</b></p></h1>
 <h1><b>🎬 IMDb Movie Ratings Analysis</b></h1>
 <h2>📌 Project Overview</h2>
@@ -119,3 +120,4 @@ Languages: Python
 Libraries: Pandas, Matplotlib, Seaborn
 Dataset: IMDb Top 1000 Movies (Kaggle)
 </p>
+</div>
