@@ -63,7 +63,7 @@ plt.grid(True)
 plt.show()
 </p>
 <p> <b>Insight:</b> There is a notable dip in average ratings post-2010, possibly due to more mass-market releases or increased voting diversity.</p>
-<h1><b></b>💬 Votes vs Ratings</b></h1>
+<h1><b>💬 Votes vs Ratings</b></h1>
 <p>
  plt.figure(figsize=(8,6))
 sns.scatterplot(data=df, x='No_of_Votes', y='IMDB_Rating', alpha=0.6)
