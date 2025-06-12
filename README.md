@@ -10,12 +10,12 @@
 </ul>
   </p>
 <p>Education</p>
-<ol>
+<ul>
 <li>2024 – BSC Computer Security and Forensics</li>
 <li>Second class honours upper division</li>
 <li>JARAMOGI OGINGA ODINGA UNIVERSITY</li>
 <li>BONDO, SIAYA</li>
-</ol>
+</ul>
 <p>K e y S k i l l s</p> 
 <p>Microsoft Office</p>
 <ol>
