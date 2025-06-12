@@ -10,19 +10,24 @@
 </ul>
   </p>
 <p>Education</p>
-2024 – BSC Computer Security and Forensics,
-                            Second class honours upper division
-                            JARAMOGI OGINGA ODINGA UNIVERSITY
-                            – BONDO, SIAYA
-K e y S k i l l s     Microsoft Office 
-                       Web and tech enthusiast
-                      Problem solving
-                       Team leadership
-A w a r d s
-                  Exploring Emerging technologies
-                   by IBM skills
-
-
+<ol>
+<li>2024 – BSC Computer Security and Forensics</li>
+<li>Second class honours upper division</li>
+<li>JARAMOGI OGINGA ODINGA UNIVERSITY</li>
+<li>BONDO, SIAYA</li>
+</ol>
+<p>K e y S k i l l s</p> 
+<p>Microsoft Office</p>
+<ol>
+<li>Web and tech enthusiast</li>
+<li>Problem solving</li>
+</ol>
+<p>Team leadership</p>
+<p><b>A w a r d s</b></p>
+<ol>
+<li>Exploring Emerging technologies</li>
+<li>by IBM skills</li>
+</ol>
 
 <h1><b>🎬 IMDb Movie Ratings Analysis</b></h1>
 <h2>📌 Project Overview</h2>
@@ -44,7 +49,7 @@ A w a r d s
 </ol>
 <h1><b>🧹 Step 1: Data Cleaning</b></h1>
 <p>
- import pandas as pd
+import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
