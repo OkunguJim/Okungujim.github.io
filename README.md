@@ -30,6 +30,11 @@
 </ol>
 <div>
 <h1><p><b>PROJECTS</b></p></h1>
+<ul>
+  <li> <a href =" https://okungujim.github.io/Resume/">CV Builder</a></li>
+</ul>
+
+  <hr>
 <h1><b>🎬 IMDb Movie Ratings Analysis</b></h1>
 <h2>📌 Project Overview</h2>
 
